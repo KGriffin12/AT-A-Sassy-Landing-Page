@@ -46,7 +46,8 @@
   }
   
   img {
-    border-radius: 50%;
+    border-radius: 55%;
+    height: 32em;
   }
   
   a {
